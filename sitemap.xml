@@ -2,13 +2,262 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://myninka.github.io/index.html</loc>
-    <lastmod>2017-03-29</lastmod>
+    <lastmod>2017-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/pugins_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/reoprtserver_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/listview_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/tabs_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/templates_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/theme_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataform_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/grid_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/fsa_header1_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/expensity_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataviz_charts_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/calendar_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/tasks_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/demos_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/groceries_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/cents_header1_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/picturegallery_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/listview_header_home-crop-u38436.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://myninka.github.io/app-home.html</loc>
+    <lastmod>2017-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/pugins_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/reoprtserver_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/fsa_header1_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/expensity_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/tasks_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/demos_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/groceries_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/cents_header1_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/picturegallery_header_home.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://myninka.github.io/ui-component-home.html</loc>
+    <lastmod>2017-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/listview_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/tabs_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/templates_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/theme_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataform_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/grid_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataviz_charts_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/calendar_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/listview_header_home-crop-u47616.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://myninka.github.io/web-home.html</loc>
+    <lastmod>2017-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/pugins_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/reoprtserver_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/tasks_header_home.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://myninka.github.io/desktop-home.html</loc>
+    <lastmod>2017-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/reoprtserver_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/listview_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/tabs_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/theme_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataform_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/grid_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataviz_charts_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/tasks_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/demos_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/listview_header_home-crop-u45997.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://myninka.github.io/mobile-home.html</loc>
+    <lastmod>2017-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/listview_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/tabs_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/templates_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/theme_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataform_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/grid_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/fsa_header1_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/expensity_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataviz_charts_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/calendar_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/tasks_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/demos_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/groceries_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/cents_header1_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/picturegallery_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/listview_header_home-crop-u45519.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://myninka.github.io/plugins-marketplace.html</loc>
+    <lastmod>2017-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/pugins_header.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/plugins_wireframes.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/pugins_header902x596.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/pugins_header652x431.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/pugins_header544x359.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/pugins_header435x287.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://myninka.github.io/report-server.html</loc>
-    <lastmod>2017-03-30</lastmod>
+    <lastmod>2017-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -64,32 +313,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://myninka.github.io/plugins-marketplace.html</loc>
-    <lastmod>2017-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/pugins_header.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/plugins_wireframes.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/pugins_header902x596.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/pugins_header652x431.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/pugins_header544x359.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/pugins_header435x287.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://myninka.github.io/picture-gallery.html</loc>
-    <lastmod>2017-03-30</lastmod>
+    <lastmod>2017-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -143,7 +368,7 @@
   </url>
   <url>
     <loc>http://myninka.github.io/expensity.html</loc>
-    <lastmod>2017-03-30</lastmod>
+    <lastmod>2017-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -185,7 +410,7 @@
   </url>
   <url>
     <loc>http://myninka.github.io/fsa.html</loc>
-    <lastmod>2017-03-30</lastmod>
+    <lastmod>2017-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -278,7 +503,7 @@
   </url>
   <url>
     <loc>http://myninka.github.io/groceries.html</loc>
-    <lastmod>2017-03-30</lastmod>
+    <lastmod>2017-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -368,7 +593,7 @@
   </url>
   <url>
     <loc>http://myninka.github.io/demos.html</loc>
-    <lastmod>2017-03-30</lastmod>
+    <lastmod>2017-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -410,7 +635,7 @@
   </url>
   <url>
     <loc>http://myninka.github.io/tasks.html</loc>
-    <lastmod>2017-03-30</lastmod>
+    <lastmod>2017-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -542,7 +767,7 @@
   </url>
   <url>
     <loc>http://myninka.github.io/cents.html</loc>
-    <lastmod>2017-03-30</lastmod>
+    <lastmod>2017-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -572,7 +797,7 @@
   </url>
   <url>
     <loc>http://myninka.github.io/theme.html</loc>
-    <lastmod>2017-03-30</lastmod>
+    <lastmod>2017-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -626,7 +851,7 @@
   </url>
   <url>
     <loc>http://myninka.github.io/ui-templates.html</loc>
-    <lastmod>2017-03-30</lastmod>
+    <lastmod>2017-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -635,7 +860,7 @@
   </url>
   <url>
     <loc>http://myninka.github.io/tabs.html</loc>
-    <lastmod>2017-03-30</lastmod>
+    <lastmod>2017-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -716,7 +941,7 @@
   </url>
   <url>
     <loc>http://myninka.github.io/listview.html</loc>
-    <lastmod>2017-03-30</lastmod>
+    <lastmod>2017-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -902,7 +1127,7 @@
   </url>
   <url>
     <loc>http://myninka.github.io/grid.html</loc>
-    <lastmod>2017-03-30</lastmod>
+    <lastmod>2017-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1043,7 +1268,7 @@
   </url>
   <url>
     <loc>http://myninka.github.io/dataform.html</loc>
-    <lastmod>2017-03-30</lastmod>
+    <lastmod>2017-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1135,8 +1360,44 @@
     </image:image>
   </url>
   <url>
+    <loc>http://myninka.github.io/dataviz.html</loc>
+    <lastmod>2017-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataviz_charts_header.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataviz_dashboards_1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataviz_dashboards_2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataviz_gauge.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataviz_charts_header654x186.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataviz_dashboards_1304x179.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataviz_dashboards_2304x178.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataviz_gauge303x179.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataviz_charts_header536x152.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataviz_charts_header429x122.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://myninka.github.io/calendar.html</loc>
-    <lastmod>2017-03-30</lastmod>
+    <lastmod>2017-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1204,74 +1465,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://myninka.github.io/dataviz.html</loc>
-    <lastmod>2017-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/dataviz_charts_header.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/dataviz_dashboards_1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/dataviz_dashboards_2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/dataviz_gauge.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/dataviz_charts_header654x186.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/dataviz_dashboards_1304x179.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/dataviz_dashboards_2304x178.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/dataviz_gauge303x179.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/dataviz_charts_header536x152.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/dataviz_charts_header429x122.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://myninka.github.io/assets/grid_wireframes_2_l.png</loc>
-    <lastmod>2017-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://myninka.github.io/assets/grid_wireframes_3_l.png</loc>
-    <lastmod>2017-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://myninka.github.io/assets/grid_wireframes_4_l.png</loc>
-    <lastmod>2017-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://myninka.github.io/assets/gridmobile_wireframes_1_l.png</loc>
-    <lastmod>2017-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://myninka.github.io/assets/gridmobile_wireframes_2_l.png</loc>
-    <lastmod>2017-03-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://myninka.github.io/assets/gridmobile_wireframes_3_l.png</loc>
-    <lastmod>2017-03-24</lastmod>
+    <loc>http://myninka.github.io/assets/listview_microinteraction_5_l.png</loc>
+    <lastmod>2017-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1372,14 +1567,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://myninka.github.io/assets/listview_microinteraction_4_l.png</loc>
-    <lastmod>2017-03-27</lastmod>
+    <loc>http://myninka.github.io/assets/gridmobile_wireframes_2_l.png</loc>
+    <lastmod>2017-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://myninka.github.io/assets/listview_microinteraction_5_l.png</loc>
-    <lastmod>2017-03-27</lastmod>
+    <loc>http://myninka.github.io/assets/gridmobile_wireframes_3_l.png</loc>
+    <lastmod>2017-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1468,14 +1663,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://myninka.github.io/assets/grid_header_l.png</loc>
-    <lastmod>2017-03-23</lastmod>
+    <loc>http://myninka.github.io/assets/tasks_website_l.png</loc>
+    <lastmod>2017-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://myninka.github.io/assets/grid_wireframes_1_l.png</loc>
-    <lastmod>2017-03-24</lastmod>
+    <loc>http://myninka.github.io/assets/tasks_win8_l.png</loc>
+    <lastmod>2017-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1486,14 +1681,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://myninka.github.io/assets/tasks_wireframes_1_l.png</loc>
-    <lastmod>2017-03-28</lastmod>
+    <loc>http://myninka.github.io/assets/listview_microinteraction_4_l.png</loc>
+    <lastmod>2017-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://myninka.github.io/assets/tasks_wireframes_2_l.png</loc>
-    <lastmod>2017-03-28</lastmod>
+    <loc>http://myninka.github.io/assets/gridmobile_wireframes_1_l.png</loc>
+    <lastmod>2017-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1714,8 +1909,44 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://myninka.github.io/assets/theme_3.png</loc>
+    <lastmod>2017-03-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://myninka.github.io/assets/dataviz_dashboards_2_l.png</loc>
     <lastmod>2017-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://myninka.github.io/assets/grid_wireframes_4_l.png</loc>
+    <lastmod>2017-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://myninka.github.io/assets/grid_wireframes_3_l.png</loc>
+    <lastmod>2017-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://myninka.github.io/assets/grid_wireframes_2_l.png</loc>
+    <lastmod>2017-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://myninka.github.io/assets/grid_wireframes_1_l.png</loc>
+    <lastmod>2017-03-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://myninka.github.io/assets/grid_header_l.png</loc>
+    <lastmod>2017-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1804,7 +2035,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://myninka.github.io/assets/tasks_website_l.png</loc>
+    <loc>http://myninka.github.io/assets/tasks_wireframes_1_l.png</loc>
     <lastmod>2017-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1816,7 +2047,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://myninka.github.io/assets/tasks_win8_l.png</loc>
+    <loc>http://myninka.github.io/assets/tasks_wireframes_2_l.png</loc>
     <lastmod>2017-03-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
