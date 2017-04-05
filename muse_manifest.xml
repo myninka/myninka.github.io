@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="myninka.github.io" resolutions="1x" timestamp="1491351964123">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="myninka.github.io" resolutions="1x" timestamp="1491354436826">
   <folder name="assets">
     <file name="dataviz_dashboards_1_l.png" crc="370289905" seo="true" mt="1490139961000"/>
     <file name="dataviz_dashboards_2_l.png" crc="4128217510" seo="true" mt="1490139860000"/>
@@ -101,7 +101,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="179112902"/>
-    <file name="index.css" crc="113928510" ref="index"/>
+    <file name="index.css" crc="22405751" ref="index"/>
     <file name="dataviz.css" crc="4078022723" ref="dataviz"/>
     <file name="iefonts_dataviz.css" crc="3824530138" ref="dataviz"/>
     <file name="nomq_dataviz.css" crc="254136163" ref="dataviz"/>
@@ -155,19 +155,19 @@
     <file name="nomq_fsa.css" crc="105721723" ref="fsa"/>
     <file name="iefonts_fsa.css" crc="3824530138" ref="fsa"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
-    <file name="ui-component-home.css" crc="175932200" ref="ui-component-home"/>
+    <file name="ui-component-home.css" crc="4029013895" ref="ui-component-home"/>
     <file name="nomq_ui-component-home.css" crc="478913786" ref="ui-component-home"/>
     <file name="iefonts_ui-component-home.css" crc="3824530138" ref="ui-component-home"/>
-    <file name="app-home.css" crc="208366013" ref="app-home"/>
+    <file name="app-home.css" crc="84850004" ref="app-home"/>
     <file name="nomq_app-home.css" crc="4136795687" ref="app-home"/>
     <file name="iefonts_app-home.css" crc="3824530138" ref="app-home"/>
-    <file name="mobile-home.css" crc="3795332991" ref="mobile-home"/>
+    <file name="mobile-home.css" crc="311920931" ref="mobile-home"/>
     <file name="nomq_mobile-home.css" crc="4217460470" ref="mobile-home"/>
     <file name="iefonts_mobile-home.css" crc="3824530138" ref="mobile-home"/>
-    <file name="desktop-home.css" crc="4028881333" ref="desktop-home"/>
+    <file name="desktop-home.css" crc="125542617" ref="desktop-home"/>
     <file name="nomq_desktop-home.css" crc="4095084112" ref="desktop-home"/>
     <file name="iefonts_desktop-home.css" crc="3824530138" ref="desktop-home"/>
-    <file name="web-home.css" crc="142918631" ref="web-home"/>
+    <file name="web-home.css" crc="4143654486" ref="web-home"/>
     <file name="nomq_web-home.css" crc="299833050" ref="web-home"/>
     <file name="iefonts_web-home.css" crc="3824530138" ref="web-home"/>
   </folder>
@@ -1502,6 +1502,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="web-home" alt=""/>
       <caption webpage="web-home" alt=""/>
       <caption webpage="web-home" alt=""/>
@@ -1514,6 +1516,8 @@
       <caption webpage="app-home" alt=""/>
     </file>
     <file name="reoprtserver_header_home.jpg" crc="92065662" seo="true" ref="index:desktop-home:web-home:app-home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1540,6 +1544,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="ui-component-home" alt=""/>
       <caption webpage="ui-component-home" alt=""/>
       <caption webpage="ui-component-home" alt=""/>
@@ -1554,6 +1560,8 @@
       <caption webpage="mobile-home" alt=""/>
     </file>
     <file name="tabs_header_home.jpg" crc="149929865" seo="true" ref="index:mobile-home:desktop-home:ui-component-home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1581,6 +1589,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="mobile-home" alt=""/>
       <caption webpage="mobile-home" alt=""/>
       <caption webpage="mobile-home" alt=""/>
@@ -1593,6 +1603,8 @@
       <caption webpage="ui-component-home" alt=""/>
     </file>
     <file name="theme_header_home.jpg" crc="3943470817" seo="true" ref="index:mobile-home:desktop-home:ui-component-home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1620,6 +1632,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="ui-component-home" alt=""/>
       <caption webpage="ui-component-home" alt=""/>
       <caption webpage="ui-component-home" alt=""/>
@@ -1637,6 +1651,8 @@
       <caption webpage="mobile-home" alt=""/>
     </file>
     <file name="grid_header_home.jpg" crc="509019895" seo="true" ref="index:mobile-home:desktop-home:ui-component-home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1664,6 +1680,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="mobile-home" alt=""/>
       <caption webpage="mobile-home" alt=""/>
       <caption webpage="mobile-home" alt=""/>
@@ -1681,6 +1699,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="mobile-home" alt=""/>
       <caption webpage="mobile-home" alt=""/>
       <caption webpage="mobile-home" alt=""/>
@@ -1693,6 +1713,8 @@
       <caption webpage="app-home" alt=""/>
     </file>
     <file name="dataviz_charts_header_home.jpg" crc="4289202371" seo="true" ref="index:mobile-home:desktop-home:ui-component-home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1720,6 +1742,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="mobile-home" alt=""/>
       <caption webpage="mobile-home" alt=""/>
       <caption webpage="mobile-home" alt=""/>
@@ -1732,6 +1756,8 @@
       <caption webpage="ui-component-home" alt=""/>
     </file>
     <file name="tasks_header_home.jpg" crc="4227772811" seo="true" ref="index:mobile-home:desktop-home:web-home:app-home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1764,6 +1790,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="app-home" alt=""/>
       <caption webpage="app-home" alt=""/>
       <caption webpage="app-home" alt=""/>
@@ -1786,6 +1814,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="mobile-home" alt=""/>
       <caption webpage="mobile-home" alt=""/>
       <caption webpage="mobile-home" alt=""/>
@@ -1798,6 +1828,8 @@
       <caption webpage="app-home" alt=""/>
     </file>
     <file name="cents_header1_home.jpg" crc="3791055036" seo="true" ref="index:mobile-home:app-home">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -1820,6 +1852,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="mobile-home" alt=""/>
       <caption webpage="mobile-home" alt=""/>
       <caption webpage="mobile-home" alt=""/>
@@ -1831,20 +1865,20 @@
       <caption webpage="app-home" alt=""/>
       <caption webpage="app-home" alt=""/>
     </file>
-    <file name="listview_header_home-crop-u38436.jpg" crc="4132818937" seo="true" ref="index">
+    <file name="listview_header_home-crop-u38436.jpg" crc="3958898581" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="listview_header_home-crop-u45519.jpg" crc="4132818937" seo="true" ref="mobile-home">
+    <file name="listview_header_home-crop-u45519.jpg" crc="3958898581" seo="true" ref="mobile-home">
       <caption webpage="mobile-home" alt=""/>
     </file>
-    <file name="listview_header_home-crop-u45997.jpg" crc="4132818937" seo="true" ref="desktop-home">
+    <file name="listview_header_home-crop-u45997.jpg" crc="3958898581" seo="true" ref="desktop-home">
       <caption webpage="desktop-home" alt=""/>
     </file>
-    <file name="listview_header_home-crop-u47616.jpg" crc="4132818937" seo="true" ref="ui-component-home">
+    <file name="listview_header_home-crop-u47616.jpg" crc="3958898581" seo="true" ref="ui-component-home">
       <caption webpage="ui-component-home" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3935117705" seo="true" mt="1491350826742" redirect="true"/>
+  <file name="index.html" crc="4125967098" seo="true" mt="1491354114181" redirect="true"/>
   <file name="dataviz.html" crc="14053319" seo="true" mt="1491350611754" redirect="true"/>
   <file name="calendar.html" crc="480006156" seo="true" mt="1491350618657" redirect="true"/>
   <file name="dataform.html" crc="4073197639" seo="true" mt="1491350634125" redirect="true"/>
@@ -1862,9 +1896,9 @@
   <file name="picture-gallery.html" crc="4117190543" seo="true" mt="1491350748485" redirect="true"/>
   <file name="report-server.html" crc="510562808" seo="true" mt="1491350756487" redirect="true"/>
   <file name="plugins-marketplace.html" crc="4092479749" seo="true" mt="1491351304992" redirect="true"/>
-  <file name="mobile-home.html" crc="193460308" seo="true" mt="1491350770854" redirect="true"/>
-  <file name="desktop-home.html" crc="4105065185" seo="true" mt="1491350440435" redirect="true"/>
-  <file name="web-home.html" crc="4053986971" seo="true" mt="1491350993490" redirect="true"/>
-  <file name="app-home.html" crc="495653990" seo="true" mt="1491350796841" redirect="true"/>
-  <file name="ui-component-home.html" crc="3914268945" seo="true" mt="1491350811724" redirect="true"/>
+  <file name="mobile-home.html" crc="4025892616" seo="true" mt="1491353949204" redirect="true"/>
+  <file name="desktop-home.html" crc="3847107110" seo="true" mt="1491354215164" redirect="true"/>
+  <file name="web-home.html" crc="4233923780" seo="true" mt="1491354242363" redirect="true"/>
+  <file name="app-home.html" crc="4246216961" seo="true" mt="1491354297819" redirect="true"/>
+  <file name="ui-component-home.html" crc="3924196414" seo="true" mt="1491354370018" redirect="true"/>
 </manifest>
