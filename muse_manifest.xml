@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="myninka.github.io" resolutions="1x" timestamp="1491440216078">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="myninka.github.io" resolutions="1x" timestamp="1491509048747">
   <folder name="assets">
     <file name="dataviz_dashboards_1_l.png" crc="370289905" seo="true" mt="1490139961000"/>
     <file name="dataviz_dashboards_2_l.png" crc="4128217510" seo="true" mt="1490139860000"/>
@@ -100,7 +100,7 @@
     <file name="theme_3.png" crc="166300772" seo="true" mt="1490719674000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="179112902"/>
+    <file name="site_global.css" crc="430923131"/>
     <file name="index.css" crc="8529655" ref="index"/>
     <file name="dataviz.css" crc="4172110328" ref="dataviz"/>
     <file name="iefonts_dataviz.css" crc="3824530138" ref="dataviz"/>
@@ -130,8 +130,8 @@
     <file name="demos.css" crc="3765644782" ref="demos"/>
     <file name="nomq_demos.css" crc="482283151" ref="demos"/>
     <file name="iefonts_demos.css" crc="3824530138" ref="demos"/>
-    <file name="cents.css" crc="3775751501" ref="cents"/>
-    <file name="nomq_cents.css" crc="265665265" ref="cents"/>
+    <file name="cents.css" crc="4177060584" ref="cents"/>
+    <file name="nomq_cents.css" crc="288987965" ref="cents"/>
     <file name="iefonts_cents.css" crc="3824530138" ref="cents"/>
     <file name="tasks.css" crc="192801180" ref="tasks"/>
     <file name="nomq_tasks.css" crc="3858546235" ref="tasks"/>
@@ -2234,7 +2234,7 @@
   <file name="tabs.html" crc="3825340748" seo="true" mt="1491437159294" redirect="true"/>
   <file name="ui-templates.html" crc="4168302159" seo="true" mt="1491437478134" redirect="true"/>
   <file name="theme.html" crc="70493968" seo="true" mt="1491437753326" redirect="true"/>
-  <file name="cents.html" crc="4246532126" seo="true" mt="1491437973644" redirect="true"/>
+  <file name="cents.html" crc="179515397" seo="true" mt="1491492437720" redirect="true"/>
   <file name="tasks.html" crc="199133046" seo="true" mt="1491438329307" redirect="true"/>
   <file name="demos.html" crc="519170872" seo="true" mt="1491438516974" redirect="true"/>
   <file name="groceries.html" crc="4037711152" seo="true" mt="1491438705852" redirect="true"/>
