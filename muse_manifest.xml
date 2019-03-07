@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="myninka.github.io" resolutions="1x" timestamp="1551981606945">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="myninka.github.io" resolutions="1x" timestamp="1551982175921">
   <folder name="css">
     <file name="site_global.css" crc="6994204"/>
     <file name="listview.css" crc="3910801917" ref="listview"/>
@@ -7,8 +7,8 @@
     <file name="ui-templates.css" crc="3842823201" ref="ui-templates"/>
     <file name="nomq_ui-templates.css" crc="135405292" ref="ui-templates"/>
     <file name="iefonts_ui-templates.css" crc="3824530138" ref="ui-templates"/>
-    <file name="index.css" crc="70717967" ref="index"/>
-    <file name="nomq_index.css" crc="438161691" ref="index"/>
+    <file name="index.css" crc="257431101" ref="index"/>
+    <file name="nomq_index.css" crc="245581164" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="plugins-marketplace.css" crc="3870129217" ref="plugins-marketplace"/>
     <file name="nomq_plugins-marketplace.css" crc="3886483466" ref="plugins-marketplace"/>
@@ -2174,7 +2174,7 @@
       <caption webpage="ui-component-home" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4246645737" seo="true" mt="1551981467076" redirect="true"/>
+  <file name="index.html" crc="247400850" seo="true" mt="1551982137826" redirect="true"/>
   <file name="dataviz.html" crc="3936594206" seo="true" mt="1491434339512" redirect="true"/>
   <file name="calendar.html" crc="4056802445" seo="true" mt="1491434360754" redirect="true"/>
   <file name="dataform.html" crc="4267144280" seo="true" mt="1491436937432" redirect="true"/>
