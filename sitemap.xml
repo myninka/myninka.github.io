@@ -2,15 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://myninka.github.io/index.html</loc>
-    <lastmod>2017-04-05</lastmod>
+    <lastmod>2019-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/pugins_header_home.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/reoprtserver_header_home.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/listview_header_home.jpg</image:loc>
     </image:image>
@@ -22,6 +16,18 @@
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/theme_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/pugins_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/reoprtserver_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/demos_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/groceries_header_home.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/dataform_header_home.jpg</image:loc>
@@ -45,12 +51,6 @@
       <image:loc>http://myninka.github.io/images/tasks_header_home.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://myninka.github.io/images/demos_header_home.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/groceries_header_home.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://myninka.github.io/images/cents_header1_home.jpg</image:loc>
     </image:image>
     <image:image>
@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>http://myninka.github.io/app-home.html</loc>
-    <lastmod>2017-04-05</lastmod>
+    <lastmod>2019-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -70,6 +70,12 @@
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/reoprtserver_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/demos_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/groceries_header_home.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/fsa_header1_home.jpg</image:loc>
@@ -81,12 +87,6 @@
       <image:loc>http://myninka.github.io/images/tasks_header_home.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://myninka.github.io/images/demos_header_home.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/groceries_header_home.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://myninka.github.io/images/cents_header1_home.jpg</image:loc>
     </image:image>
     <image:image>
@@ -95,7 +95,7 @@
   </url>
   <url>
     <loc>http://myninka.github.io/ui-component-home.html</loc>
-    <lastmod>2017-04-05</lastmod>
+    <lastmod>2019-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -128,7 +128,7 @@
   </url>
   <url>
     <loc>http://myninka.github.io/web-home.html</loc>
-    <lastmod>2017-04-05</lastmod>
+    <lastmod>2019-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -143,12 +143,9 @@
   </url>
   <url>
     <loc>http://myninka.github.io/desktop-home.html</loc>
-    <lastmod>2017-04-05</lastmod>
+    <lastmod>2019-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/reoprtserver_header_home.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/listview_header_home.jpg</image:loc>
     </image:image>
@@ -157,6 +154,12 @@
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/theme_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/reoprtserver_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/demos_header_home.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/dataform_header_home.jpg</image:loc>
@@ -171,15 +174,12 @@
       <image:loc>http://myninka.github.io/images/tasks_header_home.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://myninka.github.io/images/demos_header_home.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://myninka.github.io/images/listview_header_home-crop-u45997.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://myninka.github.io/mobile-home.html</loc>
-    <lastmod>2017-04-05</lastmod>
+    <lastmod>2019-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -193,6 +193,12 @@
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/theme_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/demos_header_home.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/groceries_header_home.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/dataform_header_home.jpg</image:loc>
@@ -214,12 +220,6 @@
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/tasks_header_home.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/demos_header_home.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/groceries_header_home.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/cents_header1_home.jpg</image:loc>
@@ -594,6 +594,9 @@
       <image:loc>http://myninka.github.io/images/groceries_storyboard_6.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://myninka.github.io/images/groceries_header642x441.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://myninka.github.io/images/groceries_storyboard_1339x215.png</image:loc>
     </image:image>
     <image:image>
@@ -652,9 +655,6 @@
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/groceries_storyboard_6226x143.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/groceries_header642x441.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/groceries_header288x198.png</image:loc>
@@ -734,11 +734,11 @@
   </url>
   <url>
     <loc>http://myninka.github.io/tasks.html</loc>
-    <lastmod>2017-04-05</lastmod>
+    <lastmod>2019-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://myninka.github.io/images/tasks_header.png</image:loc>
+      <image:loc>http://myninka.github.io/images/tabs_header.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/tasks_wp.png</image:loc>
@@ -771,7 +771,7 @@
       <image:loc>http://myninka.github.io/images/tasks_wireframes_5.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://myninka.github.io/images/tasks_header905x397.png</image:loc>
+      <image:loc>http://myninka.github.io/images/tabs_header815x397.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/tasks_wp421x330.png</image:loc>
@@ -789,7 +789,7 @@
       <image:loc>http://myninka.github.io/images/tasks_redesign422x276.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://myninka.github.io/images/tasks_header654x287.png</image:loc>
+      <image:loc>http://myninka.github.io/images/tabs_header589x287.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/tasks_wp304x239.png</image:loc>
@@ -822,7 +822,7 @@
       <image:loc>http://myninka.github.io/images/tasks_wireframes_5340x222.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://myninka.github.io/images/tasks_header545x239.png</image:loc>
+      <image:loc>http://myninka.github.io/images/tabs_header491x239.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/tasks_win8544x145.png</image:loc>
@@ -843,7 +843,7 @@
       <image:loc>http://myninka.github.io/images/tasks_wireframes_5283x185.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://myninka.github.io/images/tasks_header436x191.png</image:loc>
+      <image:loc>http://myninka.github.io/images/tabs_header393x191.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/tasks_win8435x116.png</image:loc>
@@ -864,7 +864,7 @@
       <image:loc>http://myninka.github.io/images/tasks_wireframes_5227x148.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://myninka.github.io/images/tasks_header291x128.png</image:loc>
+      <image:loc>http://myninka.github.io/images/tabs_header262x128.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/tasks_wp292x229.png</image:loc>
@@ -1590,25 +1590,10 @@
       <image:loc>http://myninka.github.io/images/dataform_wireframes_6.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://myninka.github.io/images/dataform_header654x313.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/dataform_wireframes_3340x212.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/dataform_wireframes_4340x212.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/dataform_header545x261.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/dataform_header436x209.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://myninka.github.io/images/dataform_wireframes_1227x141.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://myninka.github.io/images/dataform_header906x433.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataform_header654x313.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/dataform_wireframes_1340x211.png</image:loc>
@@ -1617,10 +1602,19 @@
       <image:loc>http://myninka.github.io/images/dataform_wireframes_2339x211.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://myninka.github.io/images/dataform_wireframes_3340x212.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataform_wireframes_4340x212.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://myninka.github.io/images/dataform_wireframes_5340x210.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/dataform_wireframes_6340x210.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataform_header545x261.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/dataform_wireframes_1283x176.png</image:loc>
@@ -1639,6 +1633,12 @@
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/dataform_wireframes_6283x175.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataform_header436x209.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://myninka.github.io/images/dataform_wireframes_1227x141.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://myninka.github.io/images/dataform_wireframes_2226x141.png</image:loc>
