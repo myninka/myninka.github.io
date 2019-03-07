@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="myninka.github.io" resolutions="1x" timestamp="1551979695667">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="myninka.github.io" resolutions="1x" timestamp="1551981606945">
   <folder name="css">
     <file name="site_global.css" crc="6994204"/>
-    <file name="listview.css" crc="97659619" ref="listview"/>
-    <file name="nomq_listview.css" crc="417941544" ref="listview"/>
+    <file name="listview.css" crc="3910801917" ref="listview"/>
+    <file name="nomq_listview.css" crc="326944609" ref="listview"/>
     <file name="iefonts_listview.css" crc="3824530138" ref="listview"/>
     <file name="ui-templates.css" crc="3842823201" ref="ui-templates"/>
     <file name="nomq_ui-templates.css" crc="135405292" ref="ui-templates"/>
     <file name="iefonts_ui-templates.css" crc="3824530138" ref="ui-templates"/>
-    <file name="index.css" crc="241789350" ref="index"/>
-    <file name="nomq_index.css" crc="3957014234" ref="index"/>
+    <file name="index.css" crc="70717967" ref="index"/>
+    <file name="nomq_index.css" crc="438161691" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="plugins-marketplace.css" crc="3870129217" ref="plugins-marketplace"/>
     <file name="nomq_plugins-marketplace.css" crc="3886483466" ref="plugins-marketplace"/>
@@ -25,8 +25,8 @@
     <file name="groceries.css" crc="395725555" ref="groceries"/>
     <file name="nomq_groceries.css" crc="3869960128" ref="groceries"/>
     <file name="iefonts_groceries.css" crc="3824530138" ref="groceries"/>
-    <file name="mobile-home.css" crc="4283295352" ref="mobile-home"/>
-    <file name="nomq_mobile-home.css" crc="4184306311" ref="mobile-home"/>
+    <file name="mobile-home.css" crc="13470539" ref="mobile-home"/>
+    <file name="nomq_mobile-home.css" crc="4053041317" ref="mobile-home"/>
     <file name="iefonts_mobile-home.css" crc="3824530138" ref="mobile-home"/>
     <file name="tabs.css" crc="4232083485" ref="tabs"/>
     <file name="nomq_tabs.css" crc="201438688" ref="tabs"/>
@@ -491,16 +491,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="desktop-home" alt=""/>
-      <caption webpage="desktop-home" alt=""/>
-      <caption webpage="desktop-home" alt=""/>
-      <caption webpage="desktop-home" alt=""/>
-      <caption webpage="desktop-home" alt=""/>
       <caption webpage="web-home" alt=""/>
       <caption webpage="web-home" alt=""/>
       <caption webpage="web-home" alt=""/>
       <caption webpage="web-home" alt=""/>
       <caption webpage="web-home" alt=""/>
+      <caption webpage="desktop-home" alt=""/>
+      <caption webpage="desktop-home" alt=""/>
+      <caption webpage="desktop-home" alt=""/>
+      <caption webpage="desktop-home" alt=""/>
+      <caption webpage="desktop-home" alt=""/>
       <caption webpage="mobile-home" alt=""/>
       <caption webpage="mobile-home" alt=""/>
       <caption webpage="mobile-home" alt=""/>
@@ -1213,54 +1213,6 @@
       <caption webpage="listview" alt=""/>
     </file>
     <file name="listview_microinteraction_6227x134.png" crc="3780992129" seo="true" ref="listview">
-      <caption webpage="listview" alt=""/>
-    </file>
-    <file name="listview_header332x128.png" crc="225454275" seo="true" ref="listview">
-      <caption webpage="listview" alt=""/>
-    </file>
-    <file name="listview_wireframes_selection172x102.png" crc="3980824520" seo="true" ref="listview">
-      <caption webpage="listview" alt=""/>
-    </file>
-    <file name="listview_wireframes_reorder172x102.png" crc="312218410" seo="true" ref="listview">
-      <caption webpage="listview" alt=""/>
-    </file>
-    <file name="listview_wireframes_pulltorefresh172x102.png" crc="7146560" seo="true" ref="listview">
-      <caption webpage="listview" alt=""/>
-    </file>
-    <file name="listview_wireframes_features172x102.png" crc="4068269715" seo="true" ref="listview">
-      <caption webpage="listview" alt=""/>
-    </file>
-    <file name="listview_masterdetail325x295.png" crc="3920797325" seo="true" ref="listview">
-      <caption webpage="listview" alt=""/>
-    </file>
-    <file name="listview_horizontal326x296.png" crc="4216999938" seo="true" ref="listview">
-      <caption webpage="listview" alt=""/>
-    </file>
-    <file name="listview_wrap316x267.png" crc="4200181413" seo="true" ref="listview">
-      <caption webpage="listview" alt=""/>
-    </file>
-    <file name="listview_pinterest316x261.png" crc="3797055019" seo="true" ref="listview">
-      <caption webpage="listview" alt=""/>
-    </file>
-    <file name="listview_cards315x285.png" crc="4231140664" seo="true" ref="listview">
-      <caption webpage="listview" alt=""/>
-    </file>
-    <file name="listview_microinteraction_1172x102.png" crc="3973994250" seo="true" ref="listview">
-      <caption webpage="listview" alt=""/>
-    </file>
-    <file name="listview_microinteraction_2172x102.png" crc="159656385" seo="true" ref="listview">
-      <caption webpage="listview" alt=""/>
-    </file>
-    <file name="listview_microinteraction_3172x102.png" crc="3927888001" seo="true" ref="listview">
-      <caption webpage="listview" alt=""/>
-    </file>
-    <file name="listview_microinteraction_4172x102.png" crc="4046703388" seo="true" ref="listview">
-      <caption webpage="listview" alt=""/>
-    </file>
-    <file name="listview_microinteraction_5172x102.png" crc="143106398" seo="true" ref="listview">
-      <caption webpage="listview" alt=""/>
-    </file>
-    <file name="listview_microinteraction_6172x102.png" crc="3867400151" seo="true" ref="listview">
       <caption webpage="listview" alt=""/>
     </file>
     <file name="listview_header309x119.png" crc="3995617128" seo="true" ref="listview">
@@ -2222,12 +2174,12 @@
       <caption webpage="ui-component-home" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4234505731" seo="true" mt="1551979374851" redirect="true"/>
+  <file name="index.html" crc="4246645737" seo="true" mt="1551981467076" redirect="true"/>
   <file name="dataviz.html" crc="3936594206" seo="true" mt="1491434339512" redirect="true"/>
   <file name="calendar.html" crc="4056802445" seo="true" mt="1491434360754" redirect="true"/>
   <file name="dataform.html" crc="4267144280" seo="true" mt="1491436937432" redirect="true"/>
   <file name="grid.html" crc="264710255" seo="true" mt="1491436271581" redirect="true"/>
-  <file name="listview.html" crc="399120960" seo="true" mt="1491436907138" redirect="true"/>
+  <file name="listview.html" crc="391863585" seo="true" mt="1551979896750" redirect="true"/>
   <file name="tabs.html" crc="347340456" seo="true" mt="1491437159294" redirect="true"/>
   <file name="ui-templates.html" crc="3919247122" seo="true" mt="1491437478134" redirect="true"/>
   <file name="theme.html" crc="4119486195" seo="true" mt="1491437753326" redirect="true"/>
@@ -2240,7 +2192,7 @@
   <file name="picture-gallery.html" crc="4187049803" seo="true" mt="1491439631129" redirect="true"/>
   <file name="report-server.html" crc="33846356" seo="true" mt="1491439822487" redirect="true"/>
   <file name="plugins-marketplace.html" crc="4158364883" seo="true" mt="1491440051003" redirect="true"/>
-  <file name="mobile-home.html" crc="275602669" seo="true" mt="1551979549202" redirect="true"/>
+  <file name="mobile-home.html" crc="3870339242" seo="true" mt="1551981564903" redirect="true"/>
   <file name="desktop-home.html" crc="327420162" seo="true" mt="1551979539528" redirect="true"/>
   <file name="web-home.html" crc="16947771" seo="true" mt="1551979530751" redirect="true"/>
   <file name="app-home.html" crc="3884619276" seo="true" mt="1551979523773" redirect="true"/>
