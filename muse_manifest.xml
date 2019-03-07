@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="myninka.github.io" resolutions="1x" timestamp="1551982175921">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="myninka.github.io" resolutions="1x" timestamp="1551983118811">
   <folder name="css">
     <file name="site_global.css" crc="6994204"/>
     <file name="listview.css" crc="3910801917" ref="listview"/>
@@ -7,8 +7,8 @@
     <file name="ui-templates.css" crc="3842823201" ref="ui-templates"/>
     <file name="nomq_ui-templates.css" crc="135405292" ref="ui-templates"/>
     <file name="iefonts_ui-templates.css" crc="3824530138" ref="ui-templates"/>
-    <file name="index.css" crc="257431101" ref="index"/>
-    <file name="nomq_index.css" crc="245581164" ref="index"/>
+    <file name="index.css" crc="4171025134" ref="index"/>
+    <file name="nomq_index.css" crc="4154083629" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
     <file name="plugins-marketplace.css" crc="3870129217" ref="plugins-marketplace"/>
     <file name="nomq_plugins-marketplace.css" crc="3886483466" ref="plugins-marketplace"/>
@@ -25,8 +25,8 @@
     <file name="groceries.css" crc="395725555" ref="groceries"/>
     <file name="nomq_groceries.css" crc="3869960128" ref="groceries"/>
     <file name="iefonts_groceries.css" crc="3824530138" ref="groceries"/>
-    <file name="mobile-home.css" crc="13470539" ref="mobile-home"/>
-    <file name="nomq_mobile-home.css" crc="4053041317" ref="mobile-home"/>
+    <file name="mobile-home.css" crc="281184678" ref="mobile-home"/>
+    <file name="nomq_mobile-home.css" crc="3989098655" ref="mobile-home"/>
     <file name="iefonts_mobile-home.css" crc="3824530138" ref="mobile-home"/>
     <file name="tabs.css" crc="4232083485" ref="tabs"/>
     <file name="nomq_tabs.css" crc="201438688" ref="tabs"/>
@@ -52,14 +52,14 @@
     <file name="fsa.css" crc="66496119" ref="fsa"/>
     <file name="nomq_fsa.css" crc="47600678" ref="fsa"/>
     <file name="iefonts_fsa.css" crc="3824530138" ref="fsa"/>
-    <file name="app-home.css" crc="81306662" ref="app-home"/>
-    <file name="nomq_app-home.css" crc="528291555" ref="app-home"/>
+    <file name="app-home.css" crc="25411307" ref="app-home"/>
+    <file name="nomq_app-home.css" crc="52529169" ref="app-home"/>
     <file name="iefonts_app-home.css" crc="3824530138" ref="app-home"/>
-    <file name="ui-component-home.css" crc="3858789089" ref="ui-component-home"/>
-    <file name="nomq_ui-component-home.css" crc="3839055389" ref="ui-component-home"/>
+    <file name="ui-component-home.css" crc="4268745481" ref="ui-component-home"/>
+    <file name="nomq_ui-component-home.css" crc="182318861" ref="ui-component-home"/>
     <file name="iefonts_ui-component-home.css" crc="3824530138" ref="ui-component-home"/>
-    <file name="web-home.css" crc="474392887" ref="web-home"/>
-    <file name="nomq_web-home.css" crc="4050005881" ref="web-home"/>
+    <file name="web-home.css" crc="169066239" ref="web-home"/>
+    <file name="nomq_web-home.css" crc="4033921927" ref="web-home"/>
     <file name="iefonts_web-home.css" crc="3824530138" ref="web-home"/>
     <file name="picture-gallery.css" crc="13416764" ref="picture-gallery"/>
     <file name="nomq_picture-gallery.css" crc="4157587165" ref="picture-gallery"/>
@@ -67,8 +67,8 @@
     <file name="calendar.css" crc="4002189166" ref="calendar"/>
     <file name="nomq_calendar.css" crc="199743074" ref="calendar"/>
     <file name="iefonts_calendar.css" crc="3824530138" ref="calendar"/>
-    <file name="desktop-home.css" crc="188775784" ref="desktop-home"/>
-    <file name="nomq_desktop-home.css" crc="3912856941" ref="desktop-home"/>
+    <file name="desktop-home.css" crc="3902960417" ref="desktop-home"/>
+    <file name="nomq_desktop-home.css" crc="524764354" ref="desktop-home"/>
     <file name="iefonts_desktop-home.css" crc="3824530138" ref="desktop-home"/>
   </folder>
   <folder name="assets">
@@ -2174,7 +2174,7 @@
       <caption webpage="ui-component-home" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="247400850" seo="true" mt="1551982137826" redirect="true"/>
+  <file name="index.html" crc="4209502753" seo="true" mt="1551982868500" redirect="true"/>
   <file name="dataviz.html" crc="3936594206" seo="true" mt="1491434339512" redirect="true"/>
   <file name="calendar.html" crc="4056802445" seo="true" mt="1491434360754" redirect="true"/>
   <file name="dataform.html" crc="4267144280" seo="true" mt="1491436937432" redirect="true"/>
@@ -2192,9 +2192,9 @@
   <file name="picture-gallery.html" crc="4187049803" seo="true" mt="1491439631129" redirect="true"/>
   <file name="report-server.html" crc="33846356" seo="true" mt="1491439822487" redirect="true"/>
   <file name="plugins-marketplace.html" crc="4158364883" seo="true" mt="1491440051003" redirect="true"/>
-  <file name="mobile-home.html" crc="3870339242" seo="true" mt="1551981564903" redirect="true"/>
-  <file name="desktop-home.html" crc="327420162" seo="true" mt="1551979539528" redirect="true"/>
-  <file name="web-home.html" crc="16947771" seo="true" mt="1551979530751" redirect="true"/>
-  <file name="app-home.html" crc="3884619276" seo="true" mt="1551979523773" redirect="true"/>
-  <file name="ui-component-home.html" crc="129799906" seo="true" mt="1551979515704" redirect="true"/>
+  <file name="mobile-home.html" crc="4270504179" seo="true" mt="1551982919350" redirect="true"/>
+  <file name="desktop-home.html" crc="4029836740" seo="true" mt="1551982956943" redirect="true"/>
+  <file name="web-home.html" crc="530516588" seo="true" mt="1551983029691" redirect="true"/>
+  <file name="app-home.html" crc="251888538" seo="true" mt="1551983055430" redirect="true"/>
+  <file name="ui-component-home.html" crc="4211678772" seo="true" mt="1551983079376" redirect="true"/>
 </manifest>
