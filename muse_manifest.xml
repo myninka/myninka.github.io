@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="myninka.github.io" resolutions="1x" timestamp="1552339415743">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="myninka.github.io" resolutions="1x" timestamp="1552339837749">
   <folder name="css">
     <file name="site_global.css" crc="94238235"/>
     <file name="listview.css" crc="3910801917" ref="listview"/>
@@ -2188,7 +2188,7 @@
   <file name="ui-templates.html" crc="3919247122" seo="true" mt="1491437478134" redirect="true"/>
   <file name="theme.html" crc="4119486195" seo="true" mt="1491437753326" redirect="true"/>
   <file name="cents.html" crc="3772160725" seo="true" mt="1491492437720" redirect="true"/>
-  <file name="tasks.html" crc="3786992501" seo="true" mt="1552339369785" redirect="true"/>
+  <file name="tasks.html" crc="3786992501" seo="true" mt="1552339798200" redirect="true"/>
   <file name="demos.html" crc="3819614807" seo="true" mt="1491438516974" redirect="true"/>
   <file name="groceries.html" crc="365390841" seo="true" mt="1491438705852" redirect="true"/>
   <file name="fsa.html" crc="4049002228" seo="true" mt="1491438946789" redirect="true"/>
