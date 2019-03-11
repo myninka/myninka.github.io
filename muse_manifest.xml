@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="myninka.github.io" resolutions="1x" timestamp="1551983118811">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="myninka.github.io" resolutions="1x" timestamp="1552339415743">
   <folder name="css">
-    <file name="site_global.css" crc="6994204"/>
+    <file name="site_global.css" crc="94238235"/>
     <file name="listview.css" crc="3910801917" ref="listview"/>
     <file name="nomq_listview.css" crc="326944609" ref="listview"/>
     <file name="iefonts_listview.css" crc="3824530138" ref="listview"/>
@@ -31,8 +31,8 @@
     <file name="tabs.css" crc="4232083485" ref="tabs"/>
     <file name="nomq_tabs.css" crc="201438688" ref="tabs"/>
     <file name="iefonts_tabs.css" crc="3824530138" ref="tabs"/>
-    <file name="tasks.css" crc="4262260241" ref="tasks"/>
-    <file name="nomq_tasks.css" crc="10288633" ref="tasks"/>
+    <file name="tasks.css" crc="4194875387" ref="tasks"/>
+    <file name="nomq_tasks.css" crc="3858546235" ref="tasks"/>
     <file name="iefonts_tasks.css" crc="3824530138" ref="tasks"/>
     <file name="cents.css" crc="107323051" ref="cents"/>
     <file name="nomq_cents.css" crc="265665265" ref="cents"/>
@@ -1263,7 +1263,7 @@
     <file name="listview_microinteraction_6161x95.png" crc="62289723" seo="true" ref="listview">
       <caption webpage="listview" alt=""/>
     </file>
-    <file name="tabs_header.png" crc="12389118" seo="true" ref="tabs:tasks">
+    <file name="tabs_header.png" crc="12389118" seo="true" ref="tabs">
       <caption webpage="tabs" alt=""/>
       <caption webpage="tabs" alt=""/>
       <caption webpage="tasks" alt=""/>
@@ -1519,9 +1519,6 @@
       <caption webpage="tasks" alt=""/>
       <caption webpage="tasks" alt=""/>
     </file>
-    <file name="tabs_header815x397.png" crc="3791105221" seo="true" ref="tasks">
-      <caption webpage="tasks" alt=""/>
-    </file>
     <file name="tasks_wp421x330.png" crc="3876477956" seo="true" ref="tasks">
       <caption webpage="tasks" alt=""/>
     </file>
@@ -1535,9 +1532,6 @@
       <caption webpage="tasks" alt=""/>
     </file>
     <file name="tasks_redesign422x276.png" crc="4214744473" seo="true" ref="tasks">
-      <caption webpage="tasks" alt=""/>
-    </file>
-    <file name="tabs_header589x287.png" crc="376963159" seo="true" ref="tasks">
       <caption webpage="tasks" alt=""/>
     </file>
     <file name="tasks_wp304x239.png" crc="2996961" seo="true" ref="tasks">
@@ -1570,9 +1564,6 @@
     <file name="tasks_wireframes_5340x222.png" crc="445127075" seo="true" ref="tasks">
       <caption webpage="tasks" alt=""/>
     </file>
-    <file name="tabs_header491x239.png" crc="3876024450" seo="true" ref="tasks">
-      <caption webpage="tasks" alt=""/>
-    </file>
     <file name="tasks_win8544x145.png" crc="6465654" seo="true" ref="tasks">
       <caption webpage="tasks" alt=""/>
     </file>
@@ -1591,9 +1582,6 @@
     <file name="tasks_wireframes_5283x185.png" crc="3981475404" seo="true" ref="tasks">
       <caption webpage="tasks" alt=""/>
     </file>
-    <file name="tabs_header393x191.png" crc="4237385917" seo="true" ref="tasks">
-      <caption webpage="tasks" alt=""/>
-    </file>
     <file name="tasks_win8435x116.png" crc="3929166645" seo="true" ref="tasks">
       <caption webpage="tasks" alt=""/>
     </file>
@@ -1610,9 +1598,6 @@
       <caption webpage="tasks" alt=""/>
     </file>
     <file name="tasks_wireframes_5227x148.png" crc="3769370596" seo="true" ref="tasks">
-      <caption webpage="tasks" alt=""/>
-    </file>
-    <file name="tabs_header262x128.png" crc="441111895" seo="true" ref="tasks">
       <caption webpage="tasks" alt=""/>
     </file>
     <file name="tasks_wp292x229.png" crc="4178236320" seo="true" ref="tasks">
@@ -2173,6 +2158,25 @@
     <file name="listview_header_home-crop-u47616.jpg" crc="3958898581" seo="true" ref="ui-component-home">
       <caption webpage="ui-component-home" alt=""/>
     </file>
+    <file name="tasks_header.png" crc="3911729182" seo="true" ref="tasks">
+      <caption webpage="tasks" alt=""/>
+      <caption webpage="tasks" alt=""/>
+    </file>
+    <file name="tasks_header905x397.png" crc="3904938990" seo="true" ref="tasks">
+      <caption webpage="tasks" alt=""/>
+    </file>
+    <file name="tasks_header654x287.png" crc="135178477" seo="true" ref="tasks">
+      <caption webpage="tasks" alt=""/>
+    </file>
+    <file name="tasks_header545x239.png" crc="266228655" seo="true" ref="tasks">
+      <caption webpage="tasks" alt=""/>
+    </file>
+    <file name="tasks_header436x191.png" crc="194090181" seo="true" ref="tasks">
+      <caption webpage="tasks" alt=""/>
+    </file>
+    <file name="tasks_header291x128.png" crc="3989159708" seo="true" ref="tasks">
+      <caption webpage="tasks" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4209502753" seo="true" mt="1551982868500" redirect="true"/>
   <file name="dataviz.html" crc="3936594206" seo="true" mt="1491434339512" redirect="true"/>
@@ -2184,7 +2188,7 @@
   <file name="ui-templates.html" crc="3919247122" seo="true" mt="1491437478134" redirect="true"/>
   <file name="theme.html" crc="4119486195" seo="true" mt="1491437753326" redirect="true"/>
   <file name="cents.html" crc="3772160725" seo="true" mt="1491492437720" redirect="true"/>
-  <file name="tasks.html" crc="3937028619" seo="true" mt="1551909893612" redirect="true"/>
+  <file name="tasks.html" crc="3786992501" seo="true" mt="1552339369785" redirect="true"/>
   <file name="demos.html" crc="3819614807" seo="true" mt="1491438516974" redirect="true"/>
   <file name="groceries.html" crc="365390841" seo="true" mt="1491438705852" redirect="true"/>
   <file name="fsa.html" crc="4049002228" seo="true" mt="1491438946789" redirect="true"/>
