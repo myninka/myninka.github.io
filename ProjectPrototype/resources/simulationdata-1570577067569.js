@@ -1,0 +1,24 @@
+function initData() {
+  jimData.variables["CurrentScreen"] = "loan";
+  jimData.variables["R2"] = "Add";
+  jimData.variables["New"] = "False";
+  jimData.variables["L1"] = "Add";
+  jimData.variables["L2"] = "Add";
+  jimData.variables["Signees"] = "0";
+  jimData.variables["ReplaceInProcess"] = "False";
+  jimData.variables["IsDone"] = "loan";
+  jimData.variables["Step"] = "1";
+  jimData.variables["HLvlLA"] = "Main";
+  jimData.variables["HLvlAccounts"] = "Main";
+  jimData.variables["ActiveTab"] = "1";
+  jimData.variables["HLvlLoans"] = "Main";
+  jimData.variables["TabbarSize"] = "L";
+  jimData.variables["ToCustomerSearch"] = "No";
+  jimData.variables["HLvlInfo"] = "Details";
+  jimData.variables["ActiveTabSync"] = "1";
+  jimData.variables["Accounts"] = "";
+  jimData.variables["Collaterals"] = "0";
+  jimData.variables["Business"] = "0";
+  jimData.variables["R1"] = "Add";
+  jimData.isInitialized = true;
+}

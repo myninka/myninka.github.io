@@ -10,21 +10,7 @@
       "parentCode": null,
       "content": "I need a use case for the Relations section.",
       "timestamp": "1527640088760",
-      "date": "May 30, 2018 3:28 AM",
-      "fileName": "",
-      "isRead": true
-    }
-    ,{
-      "canvasID": "",
-      "elementID": "",
-      "canvasURL": "",
-      "author": "Nina Zayakova",
-      "authorID" : 26608413,
-      "code": 35499220,
-      "parentCode": null,
-      "content": "I need a use case for the Relations section.",
-      "timestamp": "1527640088760",
-      "date": "May 30, 2018 3:28 AM",
+      "date": "29 May 2018 17:28",
       "fileName": "",
       "isRead": true
     }
@@ -38,21 +24,7 @@
       "parentCode": null,
       "content": "Shouldn't we have image preview here as well?",
       "timestamp": "1527663302349",
-      "date": "May 30, 2018 9:55 AM",
-      "fileName": "",
-      "isRead": true
-    }
-    ,{
-      "canvasID": "",
-      "elementID": "",
-      "canvasURL": "",
-      "author": "sg@1234",
-      "authorID" : 35122507,
-      "code": 35499221,
-      "parentCode": null,
-      "content": "Shouldn't we have image preview here as well?",
-      "timestamp": "1527663302349",
-      "date": "May 30, 2018 9:55 AM",
+      "date": "29 May 2018 23:55",
       "fileName": "",
       "isRead": true
     }
@@ -66,7 +38,7 @@
       "parentCode": null,
       "content": "All data in the filter should be seen in the grid! Add 2 columns for status - Maker/Checker and sync status (Maker/Checker- Pending, Approved, Rejected ; sync status - Draft,  Pending Synchronization,, Sent , Failed Synchronization, Synced",
       "timestamp": "1527663949667",
-      "date": "May 30, 2018 10:05 AM",
+      "date": "30 May 2018 00:05",
       "fileName": "",
       "isRead": true
     }
@@ -80,7 +52,7 @@
       "parentCode": null,
       "content": "Add in the filter the two statuses - Maker/Checker and Sync",
       "timestamp": "1527664002628",
-      "date": "May 30, 2018 10:06 AM",
+      "date": "30 May 2018 00:06",
       "fileName": "",
       "isRead": true
     }
@@ -94,7 +66,7 @@
       "parentCode": null,
       "content": "Could you represent online/offline mode with toggle button?",
       "timestamp": "1527664183162",
-      "date": "May 30, 2018 10:09 AM",
+      "date": "30 May 2018 00:09",
       "fileName": "",
       "isRead": true
     },{
@@ -104,7 +76,7 @@
       "parentCode": 35128513,
       "content": "Add label in the toggle itself",
       "timestamp": "1527664353743",
-      "date": "May 30, 2018 10:12 AM",
+      "date": "30 May 2018 00:12",
       "fileName": "35128579- Toggle button.PNG",
       "isRead": true
     }
@@ -118,22 +90,8 @@
       "parentCode": null,
       "content": "Shouldn't we add Customer tab as well?\nAnd also to have a interactive filter on the tab , for e.g. we have 200  customers in total - 150 are in status Active, 20 are in status Draft, and 30 are New. When I click on the status Draft, I expect to see only this customers.\nThe same behavior for Loan Application (please see attached file)",
       "timestamp": "1527665219352",
-      "date": "May 30, 2018 10:26 AM",
+      "date": "30 May 2018 00:26",
       "fileName": "35128858- DFA LAs Dashboard.jpg",
-      "isRead": true
-    }
-    ,{
-      "canvasID": "",
-      "elementID": "",
-      "canvasURL": "",
-      "author": "sg@1234",
-      "authorID" : 35122507,
-      "code": 35499222,
-      "parentCode": null,
-      "content": "Sections are not very clear",
-      "timestamp": "1527665428540",
-      "date": "May 30, 2018 10:30 AM",
-      "fileName": "",
       "isRead": true
     }
     ,{
@@ -146,7 +104,7 @@
       "parentCode": null,
       "content": "Sections are not very clear",
       "timestamp": "1527665428540",
-      "date": "May 30, 2018 10:30 AM",
+      "date": "30 May 2018 00:30",
       "fileName": "",
       "isRead": true
     }
@@ -160,35 +118,7 @@
       "parentCode": null,
       "content": "Not clear how to scan more than one finger.\nNot clear which of this fingers are used for authorization",
       "timestamp": "1528183550245",
-      "date": "June 5, 2018 10:25 AM",
-      "fileName": "",
-      "isRead": true
-    }
-    ,{
-      "canvasID": "",
-      "elementID": "",
-      "canvasURL": "",
-      "author": "sg@1234",
-      "authorID" : 35122507,
-      "code": 35499223,
-      "parentCode": null,
-      "content": "Not clear how to scan more than one finger.\nNot clear which of this fingers are used for authorization",
-      "timestamp": "1528183550245",
-      "date": "June 5, 2018 10:25 AM",
-      "fileName": "",
-      "isRead": true
-    }
-    ,{
-      "canvasID": "",
-      "elementID": "",
-      "canvasURL": "",
-      "author": "sg@1234",
-      "authorID" : 35122507,
-      "code": 35499224,
-      "parentCode": null,
-      "content": "i suggest to foresee a space for company logo",
-      "timestamp": "1529505489851",
-      "date": "June 20, 2018 5:38 PM",
+      "date": "05 June 2018 00:25",
       "fileName": "",
       "isRead": true
     }
@@ -202,21 +132,7 @@
       "parentCode": null,
       "content": "i suggest to foresee a space for company logo",
       "timestamp": "1529505489851",
-      "date": "June 20, 2018 5:38 PM",
-      "fileName": "",
-      "isRead": true
-    }
-    ,{
-      "canvasID": "",
-      "elementID": "",
-      "canvasURL": "",
-      "author": "sg@1234",
-      "authorID" : 35122507,
-      "code": 35499225,
-      "parentCode": null,
-      "content": "is this the standard color or it is easy configurable and easily we can change  per project?",
-      "timestamp": "1529505912207",
-      "date": "June 20, 2018 5:45 PM",
+      "date": "20 June 2018 07:38",
       "fileName": "",
       "isRead": true
     }
@@ -230,7 +146,7 @@
       "parentCode": null,
       "content": "is this the standard color or it is easy configurable and easily we can change  per project?",
       "timestamp": "1529505912207",
-      "date": "June 20, 2018 5:45 PM",
+      "date": "20 June 2018 07:45",
       "fileName": "",
       "isRead": true
     }
@@ -244,35 +160,7 @@
       "parentCode": null,
       "content": "i can not distinguish with is label, which is section etc",
       "timestamp": "1529505993035",
-      "date": "June 20, 2018 5:46 PM",
-      "fileName": "",
-      "isRead": true
-    }
-    ,{
-      "canvasID": "",
-      "elementID": "",
-      "canvasURL": "",
-      "author": "sg@1234",
-      "authorID" : 35122507,
-      "code": 35499226,
-      "parentCode": null,
-      "content": "i can not distinguish with is label, which is section etc",
-      "timestamp": "1529505993035",
-      "date": "June 20, 2018 5:46 PM",
-      "fileName": "",
-      "isRead": true
-    }
-    ,{
-      "canvasID": "",
-      "elementID": "",
-      "canvasURL": "",
-      "author": "sg@1234",
-      "authorID" : 35122507,
-      "code": 35499227,
-      "parentCode": null,
-      "content": "In customer profile you see the picture of the customer two times. This is too much for the small screen.",
-      "timestamp": "1529507887067",
-      "date": "June 20, 2018 6:18 PM",
+      "date": "20 June 2018 07:46",
       "fileName": "",
       "isRead": true
     }
@@ -286,7 +174,7 @@
       "parentCode": null,
       "content": "In customer profile you see the picture of the customer two times. This is too much for the small screen.",
       "timestamp": "1529507887067",
-      "date": "June 20, 2018 6:18 PM",
+      "date": "20 June 2018 08:18",
       "fileName": "",
       "isRead": true
     }
@@ -300,7 +188,7 @@
       "parentCode": null,
       "content": "As a Loan Officer, where do I see a list of my customers?",
       "timestamp": "1529507957942",
-      "date": "June 20, 2018 6:19 PM",
+      "date": "20 June 2018 08:19",
       "fileName": "",
       "isRead": true
     }
@@ -314,21 +202,7 @@
       "parentCode": null,
       "content": "Is this going to be only for Landscape version or it will be responsive and tablet can be used in Portrait?",
       "timestamp": "1529508026855",
-      "date": "June 20, 2018 6:20 PM",
-      "fileName": "",
-      "isRead": true
-    }
-    ,{
-      "canvasID": "",
-      "elementID": "",
-      "canvasURL": "",
-      "author": "sg@1234",
-      "authorID" : 35122507,
-      "code": 35499228,
-      "parentCode": null,
-      "content": "Photo is on the left and on the right side - not good",
-      "timestamp": "1529565068761",
-      "date": "June 21, 2018 10:11 AM",
+      "date": "20 June 2018 08:20",
       "fileName": "",
       "isRead": true
     }
@@ -342,7 +216,133 @@
       "parentCode": null,
       "content": "Photo is on the left and on the right side - not good",
       "timestamp": "1529565068761",
-      "date": "June 21, 2018 10:11 AM",
+      "date": "21 June 2018 00:11",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "author": "Nina Zayakova",
+      "authorID" : 26608413,
+      "code": 35499220,
+      "parentCode": null,
+      "content": "I need a use case for the Relations section.",
+      "timestamp": "1527640088760",
+      "date": "29 May 2018 17:28",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "author": "sg@1234",
+      "authorID" : 35122507,
+      "code": 35499221,
+      "parentCode": null,
+      "content": "Shouldn't we have image preview here as well?",
+      "timestamp": "1527663302349",
+      "date": "29 May 2018 23:55",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "author": "sg@1234",
+      "authorID" : 35122507,
+      "code": 35499222,
+      "parentCode": null,
+      "content": "Sections are not very clear",
+      "timestamp": "1527665428540",
+      "date": "30 May 2018 00:30",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "author": "sg@1234",
+      "authorID" : 35122507,
+      "code": 35499223,
+      "parentCode": null,
+      "content": "Not clear how to scan more than one finger.\nNot clear which of this fingers are used for authorization",
+      "timestamp": "1528183550245",
+      "date": "05 June 2018 00:25",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "author": "sg@1234",
+      "authorID" : 35122507,
+      "code": 35499224,
+      "parentCode": null,
+      "content": "i suggest to foresee a space for company logo",
+      "timestamp": "1529505489851",
+      "date": "20 June 2018 07:38",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "author": "sg@1234",
+      "authorID" : 35122507,
+      "code": 35499225,
+      "parentCode": null,
+      "content": "is this the standard color or it is easy configurable and easily we can change  per project?",
+      "timestamp": "1529505912207",
+      "date": "20 June 2018 07:45",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "author": "sg@1234",
+      "authorID" : 35122507,
+      "code": 35499226,
+      "parentCode": null,
+      "content": "i can not distinguish with is label, which is section etc",
+      "timestamp": "1529505993035",
+      "date": "20 June 2018 07:46",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "author": "sg@1234",
+      "authorID" : 35122507,
+      "code": 35499227,
+      "parentCode": null,
+      "content": "In customer profile you see the picture of the customer two times. This is too much for the small screen.",
+      "timestamp": "1529507887067",
+      "date": "20 June 2018 08:18",
+      "fileName": "",
+      "isRead": true
+    }
+    ,{
+      "canvasID": "",
+      "elementID": "",
+      "canvasURL": "",
+      "author": "sg@1234",
+      "authorID" : 35122507,
+      "code": 35499228,
+      "parentCode": null,
+      "content": "Photo is on the left and on the right side - not good",
+      "timestamp": "1529565068761",
+      "date": "21 June 2018 00:11",
       "fileName": "",
       "isRead": true
     }
